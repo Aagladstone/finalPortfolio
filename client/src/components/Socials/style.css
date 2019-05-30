@@ -1,49 +1,56 @@
-.socialsbox {
-    position: fixed;
-    left: 37.5px;
-    top: 230px;
-}
-
-.worksocials {
-    position: fixed;
-    right: 37.5px;
-    top: 230px;
-}
 
 .fa-facebook {
     margin-top: 30px;
     font-size: 50px;
     color: darkblue;
+    position: fixed;
+    left: 37.5px;
+    top: 230px;
 }
 
 .fa-twitter{
     margin-top: 135px;
     font-size: 50px;
     color: #1da1f2;
+    position: fixed;
+    left: 37.5px;
+    top: 230px;
 }
 
 .fa-instagram {
     margin-top: 235px;
     font-size: 50px;
     color: #c72d8e;
+    position: fixed;
+    left: 37.5px;
+    top: 230px;
 }
 
 .fa-linkedin {
     margin-top: 30px;
     font-size: 50px;
     color: #283e4a;
+    position: fixed;
+    right: 37.5px;
+    top: 230px;
 }
 
 .fa-github {
     margin-top: 135px;
     font-size: 50px;
     color: black;
+    position: fixed;
+    right: 37.5px;
+    top: 230px;
 }
 
 .fa-file-alt {
     margin-top: 235px;
     font-size: 50px;
     color: silver;
+    position: fixed;
+    right: 37.5px;
+    top: 230px;
 }
 
 h2 {

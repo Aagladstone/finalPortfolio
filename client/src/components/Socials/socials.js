@@ -4,81 +4,47 @@ import "./style.css";
 
 export function SocialsBox(props) {
     return(
-
-<a href="https://www.facebook.com/aagladstone" className="socialsbox">
-
  
-  <a href="https://www.facebook.com/aagladstone" className="fab fa-facebook"></a>  
+  <a className="fab fa-facebook" href="https://www.facebook.com/aagladstone"></a>  
 
- </a>
-)
-}
+)}
 
 export function Twitter(props) {
   return(
 
-<div className="socialsbox">
+<a className="fab fa-twitter" href="https://twitter.com/Happyrock456"></a>  
 
-<div>
-<i onClick={props.onClick} className="fab fa-twitter"></i>  
-</div>
-</div>
 )
 }
 
 export function Instagram(props) {
   return(
 
-<div className="socialsbox">
+<a  href="https://www.instagram.com/aagladstone/" className="fab fa-instagram"></a>  
 
-<div>
-<i onClick={props.onClick} className="fab fa-instagram"></i>  
-</div>
-</div>
-)
-}
-
-
-
-
+)}
 
 
 
 export function WorkSocials(props) {
     return(
 
-<div className="worksocials">
 
-<div>
-<i class="fab fa-linkedin" onClick={props.onClick} ></i>
-</div>
+<a href="https://www.linkedin.com/in/aaron-gladstone-153102b4/" class="fab fa-linkedin" ></a>
 
-</div>
 )
 }
 
 export default function Github(props) {
   return(
 
-<div className="worksocials">
+<a href="https://github.com/Aagladstone" class="fab fa-github" ></a>
 
-<div> 
-<i class="fab fa-github" onClick={props.onClick} ></i>
-</div>
-
-</div>
-)
-}
+)}
 
 export function Resume(props) {
   return(
-
-<div className="worksocials">
-
-<div>
-<i class="fas fa-file-alt" onClick={props.onClick} ></i>
-<p>Resume</p>
-</div>
-</div>
-)
-}
+     <div>
+       <a href="https://docs.google.com/document/d/16ZVYdbAnf4m14AfcINR7B2078k2Yc9uMR_GJjsCk0OY/edit?usp=sharing" class="fas fa-file-alt"></a><p>Resume</p> 
+       </div>
+       )}
