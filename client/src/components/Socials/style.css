@@ -1,0 +1,54 @@
+.socialsbox {
+    position: fixed;
+    left: 37.5px;
+    top: 230px;
+}
+
+.worksocials {
+    position: fixed;
+    right: 37.5px;
+    top: 230px;
+}
+
+.fa-facebook {
+    margin-top: 30px;
+    font-size: 50px;
+    color: darkblue;
+}
+
+.fa-twitter{
+    margin-top: 135px;
+    font-size: 50px;
+    color: #1da1f2;
+}
+
+.fa-instagram {
+    margin-top: 235px;
+    font-size: 50px;
+    color: #c72d8e;
+}
+
+.fa-linkedin {
+    margin-top: 30px;
+    font-size: 50px;
+    color: #283e4a;
+}
+
+.fa-github {
+    margin-top: 135px;
+    font-size: 50px;
+    color: black;
+}
+
+.fa-file-alt {
+    margin-top: 235px;
+    font-size: 50px;
+    color: silver;
+}
+
+h2 {
+    font-family: 'Fredericka the Great', cursive;
+    color: gold;
+    font-size: 55px;
+    padding: 15px 0px 10px 0px;
+}

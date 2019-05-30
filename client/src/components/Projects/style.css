@@ -1,0 +1,95 @@
+/* Who's Calling Me */
+
+.card-img-callMe {
+    height: 250px;
+    width: 250px;
+    margin-right: 73%;
+    position: relative;
+    top: 15px;
+}
+.card-img-callingMe {
+    height: 250px;
+    width: 300px;
+    margin-left: 70%;
+    position: relative;
+    top: -235px;
+}
+
+.card-text:last-child {
+    padding-left: -10px;
+    margin-left: 20%;
+    margin-right: 33%;
+    position: absolute;
+    top: 47%;
+    font-size: 20px;
+    color: gold;
+}
+
+.projectOne {
+    height: 450px;
+}
+
+h3 {
+    color: gold;
+    font-family: 'Righteous', cursive;
+}
+
+/* Datebook */
+
+.card-img-datebook {
+    height: 325px;
+    width: 280px;
+    margin-right: 73%;
+    position: relative;
+    top: 15px;
+}
+.card-img-datebooking {
+    height: 325px;
+    width: 280px;
+    margin-left: 72%;
+    position: relative;
+    top: -310px;
+}
+
+.card-text {
+    margin-left: 21%;
+    margin-right: 32%;
+    position: absolute;
+    top: 108%;
+    font-size: 20px;
+    color: gold;
+}
+
+.projectTwo {
+    height: 550px;
+}
+
+/* Mileage Tracker */
+
+.card-img-tracker {
+    height: 300px;
+    width: 300px;
+    margin-right: 71%;
+    position: relative;
+    top: -293px;
+}
+.card-img-tracking {
+    height: 300px;
+    width: 300px;
+    margin-left: 71%;
+    position: relative;
+    top: 8px;
+}
+
+.cardTrackerText {
+    margin-left: 23%;
+    margin-right: 33%;
+    position: absolute;
+    top: 181%;
+    font-size: 20px;
+    color: gold;
+}
+
+.projectThree {
+    height: 600px;
+}

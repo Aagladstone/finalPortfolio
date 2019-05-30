@@ -1,0 +1,149 @@
+/* Train Tracker */
+
+.card-img-train {
+    height: 250px;
+    width: 250px;
+    margin-right: 73%;
+    position: relative;
+    top: 15px;
+}
+.card-img-newTrain {
+    height: 250px;
+    width: 300px;
+    margin-left: 70%;
+    position: relative;
+    top: -235px;
+}
+
+.card-textTrain {
+    padding-left: -10px;
+    margin-left: 20%;
+    margin-right: 33%;
+    position: absolute;
+    top: 41%;
+    font-size: 20px;
+    color: gold;
+}
+
+.firebase {
+    height: 450px;
+}
+
+/* Giphy */
+
+.card-img-dak {
+    height: 325px;
+    width: 280px;
+    margin-right: 73%;
+    position: relative;
+    top: 15px;
+}
+.card-img-todd {
+    height: 325px;
+    width: 280px;
+    margin-left: 72%;
+    position: relative;
+    top: -310px;
+}
+
+.card-textGif {
+    margin-left: 21%;
+    margin-right: 32%;
+    position: absolute;
+    top: 101%;
+    font-size: 20px;
+    color: gold;
+}
+
+.jQuery {
+    height: 550px;
+}
+
+/* Liri */
+
+.card-img-liri {
+    height: 300px;
+    width: 300px;
+    margin-right: 71%;
+    position: relative;
+    top: 0px;
+}
+.card-img-lirii {
+    height: 300px;
+    width: 300px;
+    margin-left: 71%;
+    position: relative;
+    top: -300px;
+}
+
+.card-textLiri {
+    margin-left: 23%;
+    margin-right: 33%;
+    position: absolute;
+    top: 172%;
+    font-size: 20px;
+    color: gold;
+}
+
+.node {
+    height: 600px;
+}
+/* Bamazon */
+
+.card-img-cust {
+    height: 250px;
+    width: 380px;
+    margin-right: 64%;
+    position: relative;
+    top: 0px;
+}
+.card-img-manager {
+    height: 250px;
+    width: 380px;
+    margin-left: 65%;
+    position: relative;
+    top: -251px;
+}
+
+.card-textBam {
+    margin-left: 27%;
+    margin-right: 37%;
+    position: absolute;
+    top: 252%;
+    font-size: 20px;
+    color: gold;
+}
+
+.nodebam {
+    height: 600px;
+}
+
+/* Eat-Da-Burger */
+
+.card-img-burger {
+    height: 300px;
+    width: 300px;
+    margin-right: 71%;
+    position: relative;
+    top: 0px;
+}
+.card-img-eatenBurger {
+    height: 300px;
+    width: 300px;
+    margin-left: 71%;
+    position: relative;
+    top: -300px;
+}
+
+.card-textBurger {
+    margin-left: 23%;
+    margin-right: 33%;
+    position: absolute;
+    top: 332%;
+    font-size: 20px;
+    color: gold;
+}
+
+.handlebars {
+    height: 600px;
+}

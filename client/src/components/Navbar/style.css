@@ -1,0 +1,31 @@
+.Navbar {
+    z-index: 5;
+    background-color: green;
+    padding: 1%;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+#menuLink1, .pure-menu-children {
+    color: gold;
+    padding: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#name-centered{
+    color: gold;
+    font-family: 'Russo One', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.contactMe {
+    margin-right: -500px;
+    margin-left: 420px;
+}
+
+
+
+
+
