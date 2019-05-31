@@ -1,5 +1,5 @@
 import React from "react"
-import headshot from './headshot.PNG';
+import headshot from './headshotTwo.PNG';
 
 // import "./style.css";
 
@@ -21,6 +21,5 @@ export function Image(props) {
 export function Headshot() {
     return(
 <img className="image" src={headshot} alt="headshot" />
-)
-}
+)}
 
