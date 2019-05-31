@@ -147,3 +147,7 @@
 .handlebars {
     height: 525px;
 }
+
+.repo-link {
+    color: white;
+}

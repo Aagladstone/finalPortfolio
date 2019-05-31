@@ -1,6 +1,6 @@
 .Navbar {
     z-index: 5;
-    background-color: #0b03b9;
+    background-color: #273042;
     padding: 1%;
     position: fixed;
     top: 0;
@@ -8,14 +8,14 @@
 }
 
 #menuLink1, .pure-menu-children {
-    color: rgb(255, 136, 0);
+    color: #01e1ff;
     /* padding: 5%; */
     font-family: 'Russo One', sans-serif;
     font-size: 20px;
 }
 
 #name-centered{
-    color: rgb(223, 1, 1);
+    color: #01e1ff;
     font-family: 'Russo One', sans-serif;
     font-weight: 400;
     font-size: 35px;

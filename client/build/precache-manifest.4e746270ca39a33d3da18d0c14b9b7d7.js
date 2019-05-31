@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/trains.d7b7b4de.PNG"
   },
   {
-    "revision": "193e8164e1917ae9ea0b",
-    "url": "/static/css/main.ad5f93af.chunk.css"
+    "revision": "387d44910271ebf28085",
+    "url": "/static/css/main.3246091f.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/callingMeTwo.996edfdf.PNG"
   },
   {
-    "revision": "193e8164e1917ae9ea0b",
-    "url": "/static/js/main.37899370.chunk.js"
+    "revision": "387d44910271ebf28085",
+    "url": "/static/js/main.4d856ecd.chunk.js"
   },
   {
     "revision": "bff730239e9d8706f42dd3a01dfcb420",
@@ -60,20 +60,20 @@ self.__precacheManifest = [
     "url": "/static/media/toddgif.0fa0a0dd.PNG"
   },
   {
-    "revision": "2a670acba127beed1d1908250b051e57",
-    "url": "/static/media/Spotify-This-Song-Complete.2a670acb.png"
+    "revision": "74ad478553990ca861f38ce1f832d967",
+    "url": "/static/media/spotifySong.74ad4785.PNG"
   },
   {
-    "revision": "2357dcaeb66508343dfb7f1c6893fba0",
-    "url": "/static/media/Do-what-it-says-movie.2357dcae.png"
+    "revision": "20e629963908a02992e65cfdbae3603a",
+    "url": "/static/media/movieThis.20e62996.PNG"
   },
   {
-    "revision": "2e940b0e720f42fb512437f18e448660",
-    "url": "/static/media/customer-start.2e940b0e.PNG"
+    "revision": "aeac90cd0c91db10c575db6b38729f83",
+    "url": "/static/media/customerMenu.aeac90cd.PNG"
   },
   {
-    "revision": "6817f5e618c9953c6ca607c9be65a7c8",
-    "url": "/static/media/manager-order-more.6817f5e6.PNG"
+    "revision": "bb780d6561910006ef8cc68f19250630",
+    "url": "/static/media/managerOrder.bb780d65.PNG"
   },
   {
     "revision": "311f3e9efd02400ea7fbee6dad9213e7",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/eatenBurger.79f8916a.PNG"
   },
   {
-    "revision": "354a3887bbd5dba15daa9f6b8ffbf045",
+    "revision": "ea49c37f7f5712e877d969c0722af31f",
     "url": "/index.html"
   }
 ];
