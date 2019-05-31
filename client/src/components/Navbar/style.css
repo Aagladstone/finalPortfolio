@@ -1,6 +1,6 @@
 .Navbar {
     z-index: 5;
-    background-color: green;
+    background-color: #0b03b9;
     padding: 1%;
     position: fixed;
     top: 0;
@@ -8,16 +8,17 @@
 }
 
 #menuLink1, .pure-menu-children {
-    color: gold;
+    color: rgb(0, 255, 34);
     padding: 5%;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
 
 #name-centered{
-    color: gold;
+    color: rgb(0, 255, 34);
     font-family: 'Russo One', sans-serif;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 .contactMe {

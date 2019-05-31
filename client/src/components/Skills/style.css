@@ -22,7 +22,7 @@
     position: absolute;
     top: 44%;
     font-size: 20px;
-    color: gold;
+    color: white;
 }
 
 .firebase {
@@ -52,7 +52,7 @@
     position: absolute;
     top: 104%;
     font-size: 20px;
-    color: gold;
+    color: white;
 }
 
 .jQuery {
@@ -82,7 +82,7 @@
     position: absolute;
     top: 175%;
     font-size: 20px;
-    color: gold;
+    color: white;
 }
 
 .node {
@@ -111,7 +111,7 @@
     position: absolute;
     top: 255%;
     font-size: 20px;
-    color: gold;
+    color: white;
 }
 
 .nodebam {
@@ -141,7 +141,7 @@
     position: absolute;
     top: 335%;
     font-size: 20px;
-    color: gold;
+    color: white;
 }
 
 .handlebars {
