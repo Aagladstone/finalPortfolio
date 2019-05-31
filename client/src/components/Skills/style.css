@@ -1,24 +1,24 @@
 /* Train Tracker */
 
 .card-img-train {
-    height: 250px;
-    width: 250px;
-    margin-right: 73%;
+    height: 280px;
+    width: 345px;
+    margin-right: 69%;
     position: relative;
     top: 15px;
 }
 .card-img-newTrain {
-    height: 250px;
-    width: 300px;
-    margin-left: 70%;
+    height: 280px;
+    width: 310px;
+    margin-left: 72%;
     position: relative;
-    top: -235px;
+    top: -265px;
 }
 
 .card-textTrain {
     padding-left: -10px;
-    margin-left: 20%;
-    margin-right: 33%;
+    margin-left: 24%;
+    margin-right: 32%;
     position: absolute;
     top: 44%;
     font-size: 20px;
@@ -26,90 +26,90 @@
 }
 
 .firebase {
-    height: 450px;
+    height: 400px;
 }
 
 /* Giphy */
 
 .card-img-dak {
-    height: 325px;
-    width: 280px;
-    margin-right: 73%;
+    height: 280px;
+    width: 345px;
+    margin-right: 69%;
     position: relative;
     top: 15px;
 }
 .card-img-todd {
-    height: 325px;
-    width: 280px;
+    height: 280px;
+    width: 310px;
     margin-left: 72%;
     position: relative;
-    top: -310px;
+    top: -265px;
 }
 
 .card-textGif {
-    margin-left: 21%;
+    margin-left: 25%;
     margin-right: 32%;
     position: absolute;
-    top: 104%;
+    top: 98%;
     font-size: 20px;
     color: white;
 }
 
 .jQuery {
-    height: 550px;
+    height: 500px;
 }
 
 /* Liri */
 
 .card-img-liri {
     height: 300px;
-    width: 300px;
-    margin-right: 71%;
+    width: 375px;
+    margin-right: 67%;
     position: relative;
     top: 0px;
 }
 .card-img-lirii {
     height: 300px;
-    width: 300px;
-    margin-left: 71%;
+    width: 375px;
+    margin-left: 67%;
     position: relative;
-    top: -300px;
+    top: -281px;
 }
 
 .card-textLiri {
-    margin-left: 23%;
-    margin-right: 33%;
+    margin-left: 26%;
+    margin-right: 36%;
     position: absolute;
-    top: 175%;
+    top: 163%;
     font-size: 20px;
     color: white;
 }
 
 .node {
-    height: 600px;
+    height: 525px;
 }
 /* Bamazon */
 
 .card-img-cust {
-    height: 250px;
-    width: 380px;
-    margin-right: 64%;
+    height: 300px;
+    width: 375px;
+    margin-right: 67%;
     position: relative;
     top: 0px;
 }
 .card-img-manager {
-    height: 250px;
-    width: 380px;
-    margin-left: 65%;
+    height: 300px;
+    width: 375px;
+    margin-left: 67%;
     position: relative;
-    top: -251px;
+    top: -301px;
 }
 
 .card-textBam {
     margin-left: 27%;
     margin-right: 37%;
     position: absolute;
-    top: 255%;
+    top: 231%;
     font-size: 20px;
     color: white;
 }
@@ -121,29 +121,29 @@
 /* Eat-Da-Burger */
 
 .card-img-burger {
-    height: 300px;
-    width: 300px;
-    margin-right: 71%;
+    height: 280px;
+    width: 345px;
+    margin-right: 69%;
     position: relative;
     top: 0px;
 }
 .card-img-eatenBurger {
-    height: 300px;
-    width: 300px;
-    margin-left: 71%;
+    height: 280px;
+    width: 310px;
+    margin-left: 72%;
     position: relative;
-    top: -300px;
+    top: -281px;
 }
 
 .card-textBurger {
-    margin-left: 23%;
+    margin-left: 25%;
     margin-right: 33%;
     position: absolute;
-    top: 335%;
+    top: 311%;
     font-size: 20px;
     color: white;
 }
 
 .handlebars {
-    height: 600px;
+    height: 525px;
 }

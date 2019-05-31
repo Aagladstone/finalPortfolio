@@ -1,26 +1,26 @@
 /* Who's Calling Me */
 
 .card-img-callMe {
-    height: 250px;
-    width: 250px;
-    margin-right: 73%;
+    height: 280px;
+    width: 345px;
+    margin-right: 69%;
     position: relative;
     top: 15px;
 }
 .card-img-callingMe {
-    height: 250px;
-    width: 300px;
-    margin-left: 70%;
+    height: 280px;
+    width: 310px;
+    margin-left: 72%;
     position: relative;
-    top: -235px;
+    top: -265px;
 }
 
-.card-text:last-child {
+.card-text-calling {
     padding-left: -10px;
-    margin-left: 20%;
+    margin-left: 25%;
     margin-right: 33%;
     position: absolute;
-    top: 47%;
+    top: 50%;
     font-size: 20px;
     color: white;
 }
@@ -29,33 +29,28 @@
     height: 450px;
 }
 
-h3 {
-    color: white;
-    font-family: 'Righteous', cursive;
-}
-
 /* Datebook */
 
 .card-img-datebook {
-    height: 325px;
-    width: 280px;
-    margin-right: 73%;
+    height: 280px;
+    width: 345px;
+    margin-right: 69%;
     position: relative;
     top: 15px;
 }
 .card-img-datebooking {
-    height: 325px;
-    width: 280px;
+    height: 280px;
+    width: 310px;
     margin-left: 72%;
     position: relative;
-    top: -310px;
+    top: -265px;
 }
 
 .card-text {
-    margin-left: 21%;
+    margin-left: 24%;
     margin-right: 32%;
     position: absolute;
-    top: 108%;
+    top: 111%;
     font-size: 20px;
     color: white;
 }
@@ -67,29 +62,56 @@ h3 {
 /* Mileage Tracker */
 
 .card-img-tracker {
-    height: 300px;
-    width: 300px;
-    margin-right: 71%;
+    height: 280px;
+    width: 345px;
+    margin-right: 69%;
     position: relative;
-    top: -293px;
+    top: -272px;
 }
 .card-img-tracking {
-    height: 300px;
-    width: 300px;
-    margin-left: 71%;
+    height: 280px;
+    width: 310px;
+    margin-left: 72%;
     position: relative;
     top: 8px;
 }
 
 .cardTrackerText {
-    margin-left: 23%;
+    margin-left: 25%;
     margin-right: 33%;
     position: absolute;
-    top: 181%;
+    top: 182%;
     font-size: 20px;
     color: white;
 }
 
 .projectThree {
     height: 600px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Righteous', cursive;
+    border-bottom: 2px snow solid;
+    margin: 0px 33%;
+}
+
+.datebook {
+ margin: 0px 37%;
+}
+
+.fire {
+margin: 0px 35%;
+}
+
+.gify {
+    margin: 0px 38%;
+}
+
+.liriii {
+    margin: 0px 42%;
+}
+
+.bambam {
+    margin: 0px 39%;
 }
