@@ -38,7 +38,7 @@ class App extends Component {
              <p className="media-body">
               Works extremely well in teams, and am very organized, and once I graduate from the Houston
               Coding Academy and receive my certificate in full stack web development; I will have experience
-              in Node.js, JavaScript, MySQL, JQuery, reAct,  other JavaScript libraries, and frameworks.
+              in Node.js, JavaScript, MySQL, JQuery, React,  other JavaScript libraries, and frameworks.
               I would love to prove my ability to adapt to whatever I need to learn for the team, bring
               my experience and dedication to become an asset. 
            </p>
