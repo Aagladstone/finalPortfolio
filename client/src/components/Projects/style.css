@@ -1,86 +1,53 @@
 /* Who's Calling Me */
 
 .card-img-callMe {
-    height: 280px;
-    width: 345px;
-    margin-right: 69%;
-    position: relative;
-    top: 15px;
+    margin-right: 2%;
 }
 .card-img-callingMe {
-    height: 280px;
-    width: 310px;
-    margin-left: 72%;
-    position: relative;
-    top: -265px;
+    margin-left: 2%;
 }
 
 .card-text-calling {
-    padding-left: -10px;
-    margin-left: 25%;
-    margin-right: 33%;
-    position: absolute;
-    top: 50%;
     font-size: 20px;
     color: white;
 }
 
 .projectOne {
-    height: 450px;
+    height: 600px;
 }
 
 /* Datebook */
 
 .card-img-datebook {
-    height: 280px;
-    width: 345px;
-    margin-right: 69%;
-    position: relative;
-    top: 15px;
+    margin-left: 2%;
 }
 .card-img-datebooking {
-    height: 280px;
-    width: 310px;
-    margin-left: 72%;
-    position: relative;
-    top: -265px;
+    margin-right: 2%;
 }
 
 .card-text {
-    margin-left: 24%;
-    margin-right: 32%;
-    position: absolute;
-    top: 111%;
     font-size: 20px;
     color: white;
 }
 
 .projectTwo {
-    height: 550px;
+    height: 525px;
+}
+
+.desc {
+    margin-bottom: 15px;
 }
 
 /* Mileage Tracker */
 
 .card-img-tracker {
-    height: 280px;
-    width: 345px;
-    margin-right: 69%;
-    position: relative;
-    top: -272px;
+    margin-right: 2%;
 }
 .card-img-tracking {
-    height: 280px;
-    width: 310px;
-    margin-left: 72%;
-    position: relative;
-    top: 8px;
+    margin-left: 2%;
 }
 
 .cardTrackerText {
-    margin-left: 25%;
-    margin-right: 33%;
-    position: absolute;
-    top: 182%;
     font-size: 20px;
     color: white;
 }
@@ -93,7 +60,7 @@ h3 {
     color: white;
     font-family: 'Righteous', cursive;
     border-bottom: 2px snow solid;
-    margin: 0px 33%;
+    margin: 0px 32%;
 }
 
 .datebook {

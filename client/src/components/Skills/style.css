@@ -1,56 +1,32 @@
 /* Train Tracker */
 
 .card-img-train {
-    height: 280px;
-    width: 345px;
-    margin-right: 69%;
-    position: relative;
-    top: 15px;
+    margin-right: 2%;
 }
+
 .card-img-newTrain {
-    height: 280px;
-    width: 310px;
-    margin-left: 72%;
-    position: relative;
-    top: -265px;
+    margin-left: 2%;
 }
 
 .card-textTrain {
-    padding-left: -10px;
-    margin-left: 24%;
-    margin-right: 32%;
-    position: absolute;
-    top: 44%;
     font-size: 20px;
     color: white;
 }
 
 .firebase {
-    height: 400px;
+    height: 500px;
 }
 
 /* Giphy */
 
 .card-img-dak {
-    height: 280px;
-    width: 345px;
-    margin-right: 69%;
-    position: relative;
-    top: 15px;
+    margin-right: 2%;
 }
 .card-img-todd {
-    height: 280px;
-    width: 310px;
-    margin-left: 72%;
-    position: relative;
-    top: -265px;
+    margin-left: 2%;
 }
 
 .card-textGif {
-    margin-left: 25%;
-    margin-right: 32%;
-    position: absolute;
-    top: 98%;
     font-size: 20px;
     color: white;
 }
@@ -62,25 +38,13 @@
 /* Liri */
 
 .card-img-liri {
-    height: 300px;
-    width: 375px;
-    margin-right: 67%;
-    position: relative;
-    top: 0px;
+    margin-right: 2%;
 }
 .card-img-lirii {
-    height: 300px;
-    width: 375px;
-    margin-left: 67%;
-    position: relative;
-    top: -281px;
+    margin-left: 2%;
 }
 
 .card-textLiri {
-    margin-left: 26%;
-    margin-right: 36%;
-    position: absolute;
-    top: 163%;
     font-size: 20px;
     color: white;
 }
@@ -91,25 +55,13 @@
 /* Bamazon */
 
 .card-img-cust {
-    height: 300px;
-    width: 375px;
-    margin-right: 67%;
-    position: relative;
-    top: 0px;
+    margin-right: 2%;
 }
 .card-img-manager {
-    height: 300px;
-    width: 375px;
-    margin-left: 67%;
-    position: relative;
-    top: -301px;
+    margin-left: 2%;
 }
 
 .card-textBam {
-    margin-left: 27%;
-    margin-right: 37%;
-    position: absolute;
-    top: 231%;
     font-size: 20px;
     color: white;
 }
@@ -121,25 +73,15 @@
 /* Eat-Da-Burger */
 
 .card-img-burger {
-    height: 280px;
-    width: 345px;
-    margin-right: 69%;
-    position: relative;
-    top: 0px;
+    margin-right: 2%;
+    height: 350px;
 }
 .card-img-eatenBurger {
-    height: 280px;
-    width: 310px;
-    margin-left: 72%;
-    position: relative;
-    top: -281px;
+    margin-left: 2%;
+    height: 350px;
 }
 
 .card-textBurger {
-    margin-left: 25%;
-    margin-right: 33%;
-    position: absolute;
-    top: 311%;
     font-size: 20px;
     color: white;
 }
@@ -150,4 +92,30 @@
 
 .repo-link {
     color: white;
+}
+
+@media screen and (max-width: 1024px) {
+
+    .card-img-burger {
+        margin-right: 2%;
+        height: 300px;
+    }
+    .card-img-eatenBurger {
+        margin-left: 2%;
+        height: 300px;
+    }
+
+}
+
+@media screen and (max-width: 812px) {
+
+    .card-img-burger {
+        margin-right: 2%;
+        height: 250px;
+    }
+    .card-img-eatenBurger {
+        margin-left: 2%;
+        height: 250px;
+    }
+
 }
