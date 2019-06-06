@@ -12,8 +12,6 @@ class App extends Component {
   render() {
     return (
       <div className="aboutMe">
-      {/* <Wrapper> */}
-        {/* <Navbar />     */}
 
       <ContentBox>
         <h2 className="about">ABOUT ME!</h2>
